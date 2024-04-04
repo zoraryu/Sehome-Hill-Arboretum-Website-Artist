@@ -1,0 +1,3 @@
+Why GitHub?
+To work around the rhetorical constraints of a postponed release of the History and Artist webpage on the Sehome Hill Arboretum Website, this project has been created to show what the mockup page for Ella Higginson would have looked like.
+Github was a requested site by David Engebretson Jr., coordinator of the Sehome Hill Arboretum Website Project. Because David is blind and relies on a screen reader, Github's accessible coding and webpage template would allow this project to progress with future Western Washington University students coming into the Spring Quarter who will continue to create written content or the computer coding for accessible screen reading. This page will also serve as a mockup page for the official web designer of the website.
